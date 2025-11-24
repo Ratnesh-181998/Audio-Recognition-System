@@ -1,0 +1,26 @@
+[
+    {
+        "id": "song_1",
+        "title": "Example Song Title",
+        "artist": "Example Artist",
+        "album": "Example Album",
+        "year": "2024",
+        "fingerprints": [
+            [
+                12345,
+                67890,
+                100
+            ],
+            [
+                23456,
+                78901,
+                150
+            ],
+            [
+                34567,
+                89012,
+                200
+            ]
+        ]
+    }
+]

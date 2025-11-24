@@ -1,0 +1,9 @@
+# requirements.txt
+numpy
+scipy
+librosa
+Flask
+sounddevice
+soundfile
+requests
+yt-dlp
